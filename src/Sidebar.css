@@ -1,0 +1,17 @@
+.sidebar {
+	position: sticky;
+	margin-top: 0;
+	flex: .33;
+	padding: 30px 10px;
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+}
+
+.name {
+	font-size: 12px;
+	text-decoration: none;
+	
+}

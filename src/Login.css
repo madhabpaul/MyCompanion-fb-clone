@@ -1,0 +1,40 @@
+.login {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: white;
+	background-image: radial-gradient(circle, #f8fafd, #f6f8fa, #f5f5f8, #f3f3f5, #f1f1f2, #e6e6f1, #dbdaf0, #d1cfef, #b7b9f0, #99a5f1, #7192f3, #2e81f4);
+}
+
+.logo1 {
+	height: 370px; 
+	margin-top: 1rem;
+}
+
+
+.login > button {
+	width: 200px;
+	background-color: #2e81f4;
+	color: #eff2f5;
+	font-weight: 900;
+	margin-bottom: 7rem;
+}
+
+.login > button:hover {
+	background-color: white;
+	color: #2e81f4;
+}
+.login > div > img {
+	object-fit: contain;
+	/*👉	height: 260px;👈*/
+	/*👉margin-right: 50px;👈*/
+}
+
+.login > div {
+	display: flex;
+	flex-direction: column;
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
