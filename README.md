@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[Project Demo](https://mycompanion-251a2.web.app/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
